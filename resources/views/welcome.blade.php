@@ -206,7 +206,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <div class="row process-grids">
             <div class="col-lg-6" data-aos="fade-right">
                 <h4 class="mb-4">Our Inception</h4>
-                <p class="mb-3">Forged in the realm of technology and media, WebWorksToDo brings a unique and surreal feel to your project.</p>
+                <p class="mb-3">Forged in the realm of technology and media, triom brings a unique and surreal feel to your project.</p>
                 <p>We are one crazy team of tech geeks with one thing in common. The love of technology (and star wars).</p>
             </div>
             <div class="col-md-6" data-aos="fade-left">
@@ -528,7 +528,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                             </div>
                             <div class="testi-agile">
                                 <p>
-                                    <i class="fas fa-quote-left pr-3"></i>“Since we are a startup, we always consider quality & cost as the primary factor in things we do. WebWorksToDo understood this and moulded their plans to suit our needs, and that’s why they are the best!”
+                                    <i class="fas fa-quote-left pr-3"></i>“Since we are a startup, we always consider quality & cost as the primary factor in things we do. Triom understood this and moulded their plans to suit our needs, and that’s why they are the best!”
                                 </p>
                             </div>
                         </li>
@@ -702,7 +702,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="modal-body">
                 <img src="{{asset('web/images/banner.jpg')}}" class="img-fluid mb-3" alt="Modal Image" />
                 <b>Our Inception</b><br>
-                Forged in the realm of technology and media, WebWorksToDo brings a unique and surreal feel to your project.
+                Forged in the realm of technology and media, Triom brings a unique and surreal feel to your project.
                 <br>
                 <b>Who we are</b><br>
                 We are one crazy team of tech geeks with one thing in common. The love of technology (and star wars).
