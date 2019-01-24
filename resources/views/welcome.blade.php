@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Landing Landing Page Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
+    <title>TRIOM</title>
     <!-- for-mobile-apps -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -110,11 +110,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 </div>
                 <div class="col-lg-4 col-md-8 mt-lg-0 mt-5 banner-form" data-aos="fade-left">
                     <h5><i class="fas mr-2 fa-laptop"></i> Register Now</h5>
-                    <form action="#" class="mt-4" method="post">
-                        <input class="form-control" type="text" name="Name" placeholder="Name" required="" />
-                        <input class="form-control" type="email" name="Email" placeholder="Email" required="" />
-                        <input class="form-control" type="text" name="Number" placeholder="Phone Number" required="" />
-                        <input class="form-control" type="password" name="Number" placeholder="Password" required="" />
+                    <form method="POST" action="{{ route('register') }}">
+                        @csrf
+                        <input class="form-control" type="text" id="name" name="Name" placeholder="Name" required="" />
+                        <input class="form-control" type="email" id="email" name="Email" placeholder="Email" required="" />
+                        <input class="form-control" type="text" id="number" name="Number" placeholder="Phone Number" required="" />
+                        <input class="form-control" type="password" id="password" name="Number" placeholder="Password" required="" />
                         <input class="form-control text-capitalize" type="submit" value="Register Account">
                     </form>
                 </div>
@@ -900,6 +901,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
     });
 </script>
+<script type="text/javascript">(function(t,e){var r=function(t){try{var r=e.head||e.getElementsByTagName("head")[0];a=e.createElement("script");a.setAttribute("type","text/javascript");a.setAttribute("src",t);r.appendChild(a);}catch(t){}};t.CollectId = "5c49802176c07a4238fe5680";r("https://collectcdn.com/launcher.js");})(window,document);</script>
 <!-- //end-smoth-scrolling -->
 
 </body>
