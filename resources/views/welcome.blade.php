@@ -76,12 +76,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <li>
                     <a href="#overview" class="scroll">Overview</a>
                 </li>
-                <li>
-                    <a href="#pricing" class="scroll">Pricing</a>
-                </li>
-                <li>
-                    <a href="#faq" class="scroll">Faq's</a>
-                </li>
+                {{--<li>--}}
+                    {{--<a href="#pricing" class="scroll">Pricing</a>--}}
+                {{--</li>--}}
+                {{--<li>--}}
+                    {{--<a href="#faq" class="scroll">Faq's</a>--}}
+                {{--</li>--}}
                 <li>
                     <a href="#contact" class="scroll">Contact</a>
                 </li>
@@ -101,12 +101,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <div class="slider-info col-lg-8">
                     <div class="agileinfo-logo mt-5">
                         <h2 data-aos="fade-down">
-                            <span class="fab fa-blackberry text-center"></span> Modern Solution -
+                            <span class="fab fa-blackberry text-center"></span> Triom Technologies -
                         </h2>
                     </div>
-                    <h3 class="txt-w3_agile" data-aos="fade-down">Professional Landing Page </h3>
+                    <h3 class="txt-w3_agile" data-aos="fade-down">We give wings to your business </h3>
                     <a class="btn mt-4 mr-2 text-capitalize" data-aos="fade-up" href="#" data-toggle="modal" data-target="#exampleModalCenter1" role="button">read more</a>
-                    <a class="btn mt-4 text-capitalize" data-aos="fade-up" href="#" data-toggle="modal" data-target="#exampleModal" role="button">watch video <i class="fas fa-play-circle"></i></a>
+                    {{--<a class="btn mt-4 text-capitalize" data-aos="fade-up" href="#" data-toggle="modal" data-target="#exampleModal" role="button">watch video <i class="fas fa-play-circle"></i></a>--}}
                 </div>
                 <div class="col-lg-4 col-md-8 mt-lg-0 mt-5 banner-form" data-aos="fade-left">
                     <h5><i class="fas mr-2 fa-laptop"></i> Register Now</h5>
@@ -163,21 +163,24 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <div class="f1 icon1 p-4">
                     <i class="fab fa-bandcamp"></i>
                     <h3 class="my-3">Design & Branding</h3>
-                    <p>Excepteur sint occaecat non proident, sunt in culpa quis. Phasellus lacinia id erat eu ullamcorper. Nunc id ipsum.</p>
+                    <p>At Triom Technologies quality is the factor that drives perfection, starting at the conceptualization and designing phase, through to the application and implementation thereof.
+                        Delivery of quality products should not have an excessive price tag; we thus offer competitive prices to match your budget.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6" data-aos="fade-up">
                 <div class="f1 icon2 p-4">
                     <i class="fab fa-codepen"></i>
-                    <h3 class="my-3">Safe & Secure</h3>
-                    <p>Excepteur sint occaecat non proident, sunt in culpa quis. Phasellus lacinia id erat eu ullamcorper. Nunc id ipsum.</p>
+                    <h3 class="my-3">We believe in Results</h3>
+                    <p>We are outcome driven, regardless how big or small the project – Whether it is a strategic approach that allows an optimal return on investment or a mere smile on a happy client’s face to favorable market responses and a quality product that will exceed the client and their clients’ expectations.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mt-lg-0 mt-4" data-aos="fade-left">
                 <div class="f1 icon3 p-4">
                     <i class="fab fa-bitcoin"></i>
-                    <h3 class="my-3">Fresh Interfaces</h3>
-                    <p>Excepteur sint occaecat non proident, sunt in culpa quis. Phasellus lacinia id erat eu ullamcorper. Nunc id ipsum.</p>
+                    <h3 class="my-3">Our Passion</h3>
+                    <p>We are driven by our passion for brands and bringing them to life. We believe that your brand should be out there, we believe that the world should experience your brand, but most of all – we believe in you.
+
+                        Let’s help you to develop your brand into an astonishing and unforgettable experience by means of our various advertising, branding and event management solutions.</p>
                 </div>
             </div>
         </div>
@@ -188,7 +191,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- quote -->
 <section class="quote bg-light py-5">
     <div class="container py-md-3" data-aos="fade-up">
-        <h4>Excepteur sint occaecat non proident, sunt in culpa quis. Phasellus lacinia id erat eu ullamcorper.</h4>
+        <h4>We are a young, energetic, technology service provider of the coming age, with one aim : Delivering the best to the world. Because you deserve the best!</h4>
         <div class="start text-right mt-4" data-aos="flip-left">
             <a href="#contact" class="scroll">Get Started </a>
         </div>
@@ -202,12 +205,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <div class="container py-md-5">
         <div class="row process-grids">
             <div class="col-lg-6" data-aos="fade-right">
-                <h4 class="mb-4">Excepteur sint occaecat non lorem proident, sunt in culpa quis.</h4>
-                <p class="mb-3">Morbi tincidunt nisi tortor, iaculis maximus eros vestibulum at. Ut pulvinar tortor non augue fringilla, fermentum consequat
-                    nisi rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur. Nullam luctus hendrerit sapien, sed dictum est.
-                    mattis egestas.</p>
-                <p>Morbi tincidunt nisi tortor, iaculis maximus eros vestibulum at. Ut pulvinar tortor non augue fringilla, fermentum consequat
-                    nisi rutrum. Orci varius natoque penatibus et magnis dis parturient montes.</p>
+                <h4 class="mb-4">Our Inception</h4>
+                <p class="mb-3">Forged in the realm of technology and media, WebWorksToDo brings a unique and surreal feel to your project.</p>
+                <p>We are one crazy team of tech geeks with one thing in common. The love of technology (and star wars).</p>
             </div>
             <div class="col-md-6" data-aos="fade-left">
                 <img src="{{ asset('web/images/b1.jpg') }}"  alt="" class="img-fluid"/>
@@ -216,12 +216,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <img src="{{ asset('web/images/b2.jpg') }}"  alt="" class="img-fluid"/>
             </div>
             <div class="col-lg-6 mt-5" data-aos="fade-left">
-                <h4 class="mb-4">Excepteur sint occaecat non lorem proident, sunt in culpa quis.</h4>
-                <p class="mb-3">Morbi tincidunt nisi tortor, iaculis maximus eros vestibulum at. Ut pulvinar tortor non augue fringilla, fermentum consequat
-                    nisi rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur. Nullam luctus hendrerit sapien, sed dictum est.
-                    mattis egestas.</p>
-                <p>Morbi tincidunt nisi tortor, iaculis maximus eros vestibulum at. Ut pulvinar tortor non augue fringilla, fermentum consequat
-                    nisi rutrum. Orci varius natoque penatibus et magnis dis parturient montes.</p>
+                <h4 class="mb-4">How we work</h4>
+                <p class="mb-3">We start with an idea, or a concept and then work on that as per the clients business needs. We assist them in achieving their targets by providing a sophisticated & simple approach towards the new marketing era.</p>
+                <p>We grabbed our first project at a hackathon, and since then there was no turning back. Building web applications with the latest tools available in the market, and most importantly breaking the myth of bieng "pricey".</p>
             </div>
         </div>
     </div>
@@ -229,281 +226,281 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- //process -->
 
 <!--/pricing -->
-<section class="pricing bg-light py-5" id="pricing">
-    <div class="container py-lg-3">
-        <div class="inner-sec">
-            <h3 class="heading mb-5 text-center" data-aos="zoom-in"> Pricing plans</h3>
-            <div class="price-right">
-                <div class="tabs">
-                    <ul class="nav nav-pills my-md-5 my-3 justify-content-center" id="pills-tab" role="tablist">
-                        <li class="nav-item">
-                            <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Weekly</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Monthly</a>
-                        </li>
+{{--<section class="pricing bg-light py-5" id="pricing">--}}
+    {{--<div class="container py-lg-3">--}}
+        {{--<div class="inner-sec">--}}
+            {{--<h3 class="heading mb-5 text-center" data-aos="zoom-in"> Pricing plans</h3>--}}
+            {{--<div class="price-right">--}}
+                {{--<div class="tabs">--}}
+                    {{--<ul class="nav nav-pills my-md-5 my-3 justify-content-center" id="pills-tab" role="tablist">--}}
+                        {{--<li class="nav-item">--}}
+                            {{--<a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Weekly</a>--}}
+                        {{--</li>--}}
+                        {{--<li class="nav-item">--}}
+                            {{--<a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Monthly</a>--}}
+                        {{--</li>--}}
 
-                    </ul>
-                    <div class="tab-content" id="pills-tabContent">
-                        <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-                            <div class="menu-grids">
-                                <div class="row t-in">
-                                    <div class="col-lg-3 col-sm-6 price-main-info" data-aos="zoom-in-up">
-                                        <div class="price-inner card box-shadow p-4">
+                    {{--</ul>--}}
+                    {{--<div class="tab-content" id="pills-tabContent">--}}
+                        {{--<div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">--}}
+                            {{--<div class="menu-grids">--}}
+                                {{--<div class="row t-in">--}}
+                                    {{--<div class="col-lg-3 col-sm-6 price-main-info" data-aos="zoom-in-up">--}}
+                                        {{--<div class="price-inner card box-shadow p-4">--}}
 
-                                            <div class="card-body">
-                                                <h4 class="">Basic</h4>
-                                                <h5 class="card-title pricing-card-title">
-                                                    <span class=""></span>Free
+                                            {{--<div class="card-body">--}}
+                                                {{--<h4 class="">Basic</h4>--}}
+                                                {{--<h5 class="card-title pricing-card-title">--}}
+                                                    {{--<span class=""></span>Free--}}
 
-                                                </h5>
-                                                <ul class="list-unstyled mt-3 mb-4">
-                                                    <li>100 MB Disk Space</li>
-                                                    <li>2 Sub domains</li>
-                                                    <li>5 Email Accounts</li>
-                                                    <li>24/7 support</li>
-                                                </ul>
-                                                <div class="log-in mt-md-3 mt-2">
-                                                    <a class="btn scroll" href="#contact">Select</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 col-sm-6 mt-md-0 mt-5 price-main-info" data-aos="zoom-in-up">
-                                        <div class="price-inner card box-shadow p-4">
+                                                {{--</h5>--}}
+                                                {{--<ul class="list-unstyled mt-3 mb-4">--}}
+                                                    {{--<li>100 MB Disk Space</li>--}}
+                                                    {{--<li>2 Sub domains</li>--}}
+                                                    {{--<li>5 Email Accounts</li>--}}
+                                                    {{--<li>24/7 support</li>--}}
+                                                {{--</ul>--}}
+                                                {{--<div class="log-in mt-md-3 mt-2">--}}
+                                                    {{--<a class="btn scroll" href="#contact">Select</a>--}}
+                                                {{--</div>--}}
+                                            {{--</div>--}}
+                                        {{--</div>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="col-lg-3 col-sm-6 mt-md-0 mt-5 price-main-info" data-aos="zoom-in-up">--}}
+                                        {{--<div class="price-inner card box-shadow p-4">--}}
 
-                                            <div class="card-body">
-                                                <h4 class="">Satandard</h4>
-                                                <h5 class="card-title pricing-card-title">
-                                                    <span class="">$</span>30<span>/mon</span>
+                                            {{--<div class="card-body">--}}
+                                                {{--<h4 class="">Satandard</h4>--}}
+                                                {{--<h5 class="card-title pricing-card-title">--}}
+                                                    {{--<span class="">$</span>30<span>/mon</span>--}}
 
-                                                </h5>
-                                                <ul class="list-unstyled mt-3 mb-4">
-                                                    <li>100 MB Disk Space</li>
-                                                    <li>2 Sub domains</li>
-                                                    <li>5 Email Accounts</li>
-                                                    <li>24/7 support</li>
-                                                </ul>
-                                                <div class="log-in mt-md-3 mt-2">
-                                                    <a class="btn scroll" href="#contact">Select</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 col-sm-6 mt-lg-0 mt-5 price-main-info" data-aos="zoom-in-up">
-                                        <div class="price-inner card box-shadow p-4">
+                                                {{--</h5>--}}
+                                                {{--<ul class="list-unstyled mt-3 mb-4">--}}
+                                                    {{--<li>100 MB Disk Space</li>--}}
+                                                    {{--<li>2 Sub domains</li>--}}
+                                                    {{--<li>5 Email Accounts</li>--}}
+                                                    {{--<li>24/7 support</li>--}}
+                                                {{--</ul>--}}
+                                                {{--<div class="log-in mt-md-3 mt-2">--}}
+                                                    {{--<a class="btn scroll" href="#contact">Select</a>--}}
+                                                {{--</div>--}}
+                                            {{--</div>--}}
+                                        {{--</div>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="col-lg-3 col-sm-6 mt-lg-0 mt-5 price-main-info" data-aos="zoom-in-up">--}}
+                                        {{--<div class="price-inner card box-shadow p-4">--}}
 
-                                            <div class="card-body">
-                                                <h4 class="">Business</h4>
-                                                <h5 class="card-title pricing-card-title">
-                                                    <span class="">$</span>90<span>/mon</span>
+                                            {{--<div class="card-body">--}}
+                                                {{--<h4 class="">Business</h4>--}}
+                                                {{--<h5 class="card-title pricing-card-title">--}}
+                                                    {{--<span class="">$</span>90<span>/mon</span>--}}
 
-                                                </h5>
-                                                <ul class="list-unstyled mt-3 mb-4">
-                                                    <li>100 MB Disk Space</li>
-                                                    <li>2 Sub domains</li>
-                                                    <li>5 Email Accounts</li>
-                                                    <li>24/7 support</li>
-                                                </ul>
-                                                <div class="log-in mt-md-3 mt-2">
-                                                    <a class="btn scroll" href="#contact">Select</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 col-sm-6 mt-lg-0 mt-5 price-main-info" data-aos="zoom-in-up">
-                                        <div class="price-inner card box-shadow p-4">
+                                                {{--</h5>--}}
+                                                {{--<ul class="list-unstyled mt-3 mb-4">--}}
+                                                    {{--<li>100 MB Disk Space</li>--}}
+                                                    {{--<li>2 Sub domains</li>--}}
+                                                    {{--<li>5 Email Accounts</li>--}}
+                                                    {{--<li>24/7 support</li>--}}
+                                                {{--</ul>--}}
+                                                {{--<div class="log-in mt-md-3 mt-2">--}}
+                                                    {{--<a class="btn scroll" href="#contact">Select</a>--}}
+                                                {{--</div>--}}
+                                            {{--</div>--}}
+                                        {{--</div>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="col-lg-3 col-sm-6 mt-lg-0 mt-5 price-main-info" data-aos="zoom-in-up">--}}
+                                        {{--<div class="price-inner card box-shadow p-4">--}}
 
-                                            <div class="card-body">
-                                                <h4 class="">Basic</h4>
-                                                <h5 class="card-title pricing-card-title">
-                                                    <span class="">$</span>120<span>/mon</span>
+                                            {{--<div class="card-body">--}}
+                                                {{--<h4 class="">Basic</h4>--}}
+                                                {{--<h5 class="card-title pricing-card-title">--}}
+                                                    {{--<span class="">$</span>120<span>/mon</span>--}}
 
-                                                </h5>
-                                                <ul class="list-unstyled mt-3 mb-4">
-                                                    <li>100 MB Disk Space</li>
-                                                    <li>2 Sub domains</li>
-                                                    <li>5 Email Accounts</li>
-                                                    <li>24/7 support</li>
-                                                </ul>
-                                                <div class="log-in mt-md-3 mt-2">
-                                                    <a class="btn scroll" href="#contact">Select</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-                            <div class="menu-grids mt-4">
-                                <div class="row t-in">
-                                    <div class="col-lg-3 col-sm-6 price-main-info" data-aos="zoom-in-up">
-                                        <div class="price-inner card box-shadow p-4">
+                                                {{--</h5>--}}
+                                                {{--<ul class="list-unstyled mt-3 mb-4">--}}
+                                                    {{--<li>100 MB Disk Space</li>--}}
+                                                    {{--<li>2 Sub domains</li>--}}
+                                                    {{--<li>5 Email Accounts</li>--}}
+                                                    {{--<li>24/7 support</li>--}}
+                                                {{--</ul>--}}
+                                                {{--<div class="log-in mt-md-3 mt-2">--}}
+                                                    {{--<a class="btn scroll" href="#contact">Select</a>--}}
+                                                {{--</div>--}}
+                                            {{--</div>--}}
+                                        {{--</div>--}}
+                                    {{--</div>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                        {{--</div>--}}
+                        {{--<div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">--}}
+                            {{--<div class="menu-grids mt-4">--}}
+                                {{--<div class="row t-in">--}}
+                                    {{--<div class="col-lg-3 col-sm-6 price-main-info" data-aos="zoom-in-up">--}}
+                                        {{--<div class="price-inner card box-shadow p-4">--}}
 
-                                            <div class="card-body">
-                                                <h4 class="">Standard</h4>
-                                                <h5 class="card-title pricing-card-title">
-                                                    <span class="">$</span>60
+                                            {{--<div class="card-body">--}}
+                                                {{--<h4 class="">Standard</h4>--}}
+                                                {{--<h5 class="card-title pricing-card-title">--}}
+                                                    {{--<span class="">$</span>60--}}
 
-                                                </h5>
-                                                <ul class="list-unstyled mt-3 mb-4">
-                                                    <li>100 MB Disk Space</li>
-                                                    <li>2 Sub domains</li>
-                                                    <li>5 Email Accounts</li>
-                                                    <li>24/7 support</li>
-                                                </ul>
-                                                <div class="log-in mt-md-3 mt-2">
-                                                    <a class="btn scroll" href="#contact">Select</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 col-sm-6 mt-md-0 mt-5 price-main-info" data-aos="zoom-in-up">
-                                        <div class="price-inner card box-shadow p-4">
+                                                {{--</h5>--}}
+                                                {{--<ul class="list-unstyled mt-3 mb-4">--}}
+                                                    {{--<li>100 MB Disk Space</li>--}}
+                                                    {{--<li>2 Sub domains</li>--}}
+                                                    {{--<li>5 Email Accounts</li>--}}
+                                                    {{--<li>24/7 support</li>--}}
+                                                {{--</ul>--}}
+                                                {{--<div class="log-in mt-md-3 mt-2">--}}
+                                                    {{--<a class="btn scroll" href="#contact">Select</a>--}}
+                                                {{--</div>--}}
+                                            {{--</div>--}}
+                                        {{--</div>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="col-lg-3 col-sm-6 mt-md-0 mt-5 price-main-info" data-aos="zoom-in-up">--}}
+                                        {{--<div class="price-inner card box-shadow p-4">--}}
 
-                                            <div class="card-body">
-                                                <h4 class="">Business</h4>
-                                                <h5 class="card-title pricing-card-title">
-                                                    <span class="">$</span>80
+                                            {{--<div class="card-body">--}}
+                                                {{--<h4 class="">Business</h4>--}}
+                                                {{--<h5 class="card-title pricing-card-title">--}}
+                                                    {{--<span class="">$</span>80--}}
 
-                                                </h5>
-                                                <ul class="list-unstyled mt-3 mb-4">
-                                                    <li>100 MB Disk Space</li>
-                                                    <li>2 Sub domains</li>
-                                                    <li>5 Email Accounts</li>
-                                                    <li>24/7 support</li>
-                                                </ul>
-                                                <div class="log-in mt-md-3 mt-2">
-                                                    <a class="btn scroll" href="#contact">Select</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 col-sm-6 mt-lg-0 mt-5 price-main-info" data-aos="zoom-in-up">
-                                        <div class="price-inner card box-shadow p-4">
+                                                {{--</h5>--}}
+                                                {{--<ul class="list-unstyled mt-3 mb-4">--}}
+                                                    {{--<li>100 MB Disk Space</li>--}}
+                                                    {{--<li>2 Sub domains</li>--}}
+                                                    {{--<li>5 Email Accounts</li>--}}
+                                                    {{--<li>24/7 support</li>--}}
+                                                {{--</ul>--}}
+                                                {{--<div class="log-in mt-md-3 mt-2">--}}
+                                                    {{--<a class="btn scroll" href="#contact">Select</a>--}}
+                                                {{--</div>--}}
+                                            {{--</div>--}}
+                                        {{--</div>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="col-lg-3 col-sm-6 mt-lg-0 mt-5 price-main-info" data-aos="zoom-in-up">--}}
+                                        {{--<div class="price-inner card box-shadow p-4">--}}
 
-                                            <div class="card-body">
-                                                <h4 class="">Business</h4>
-                                                <h5 class="card-title pricing-card-title">
-                                                    <span class="">$</span>90
+                                            {{--<div class="card-body">--}}
+                                                {{--<h4 class="">Business</h4>--}}
+                                                {{--<h5 class="card-title pricing-card-title">--}}
+                                                    {{--<span class="">$</span>90--}}
 
-                                                </h5>
-                                                <ul class="list-unstyled mt-3 mb-4">
-                                                    <li>100 MB Disk Space</li>
-                                                    <li>2 Sub domains</li>
-                                                    <li>5 Email Accounts</li>
-                                                    <li>24/7 support</li>
-                                                </ul>
-                                                <div class="log-in mt-md-3 mt-2">
-                                                    <a class="btn scroll" href="#contact">Select</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 col-sm-6 mt-lg-0 mt-5 price-main-info" data-aos="zoom-in-up">
-                                        <div class="price-inner card box-shadow p-4">
+                                                {{--</h5>--}}
+                                                {{--<ul class="list-unstyled mt-3 mb-4">--}}
+                                                    {{--<li>100 MB Disk Space</li>--}}
+                                                    {{--<li>2 Sub domains</li>--}}
+                                                    {{--<li>5 Email Accounts</li>--}}
+                                                    {{--<li>24/7 support</li>--}}
+                                                {{--</ul>--}}
+                                                {{--<div class="log-in mt-md-3 mt-2">--}}
+                                                    {{--<a class="btn scroll" href="#contact">Select</a>--}}
+                                                {{--</div>--}}
+                                            {{--</div>--}}
+                                        {{--</div>--}}
+                                    {{--</div>--}}
+                                    {{--<div class="col-lg-3 col-sm-6 mt-lg-0 mt-5 price-main-info" data-aos="zoom-in-up">--}}
+                                        {{--<div class="price-inner card box-shadow p-4">--}}
 
-                                            <div class="card-body">
-                                                <h4 class="">Advance</h4>
-                                                <h5 class="card-title pricing-card-title">
-                                                    <span class="">$</span>90
+                                            {{--<div class="card-body">--}}
+                                                {{--<h4 class="">Advance</h4>--}}
+                                                {{--<h5 class="card-title pricing-card-title">--}}
+                                                    {{--<span class="">$</span>90--}}
 
-                                                </h5>
-                                                <ul class="list-unstyled mt-3 mb-4">
-                                                    <li>100 MB Disk Space</li>
-                                                    <li>2 Sub domains</li>
-                                                    <li>5 Email Accounts</li>
-                                                    <li>24/7 support</li>
-                                                </ul>
-                                                <div class="log-in mt-md-3 mt-2">
-                                                    <a class="btn scroll" href="#contact">Select</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                                                {{--</h5>--}}
+                                                {{--<ul class="list-unstyled mt-3 mb-4">--}}
+                                                    {{--<li>100 MB Disk Space</li>--}}
+                                                    {{--<li>2 Sub domains</li>--}}
+                                                    {{--<li>5 Email Accounts</li>--}}
+                                                    {{--<li>24/7 support</li>--}}
+                                                {{--</ul>--}}
+                                                {{--<div class="log-in mt-md-3 mt-2">--}}
+                                                    {{--<a class="btn scroll" href="#contact">Select</a>--}}
+                                                {{--</div>--}}
+                                            {{--</div>--}}
+                                        {{--</div>--}}
+                                    {{--</div>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
 
-            </div>
-        </div>
-    </div>
-</section>
+            {{--</div>--}}
+        {{--</div>--}
+    {{--</div>--}}
+{{--</section>--}}
 <!-- //pricing -->
 
 <!-- faqs -->
-<section class="faq-w3l py-5" id="faq">
-    <div class="container py-lg-3">
-        <h3 class="heading mb-5 text-center" data-aos="zoom-in"> Frequently Asked Questions</h3>
-        <div class="row faq-info">
-            <div class=" col-md-6 faq-w3agile">
-                <ul class="faq pl-sm-4 pl-3">
-                    <li class="item1 item mt-sm-4 mt-3 pt-3 pl-2" data-aos="flip-left">
-                        <h4>Lorem ipsum dolor sit amet? </h4>
-                        <ul>
-                            <li class="subitem1 mt-3">
-                                <p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-                                    laoreet dolore.</p>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="item2 item mt-sm-4 mt-3 pt-3 pl-2" data-aos="flip-left">
-                        <h4>Lorem ipsum dolor sit amet? </h4>
-                        <ul>
-                            <li class="subitem1 mt-3">
-                                <p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-                                    laoreet dolore.</p>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="item3 item mt-sm-4 mt-3 pt-3 pl-2" data-aos="flip-left">
-                        <h4>Lorem ipsum dolor sit amet? </h4>
-                        <ul>
-                            <li class="subitem1 mt-3">
-                                <p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-                                    laoreet dolore.</p>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-            <div class=" col-md-6 faq-w3agile">
-                <ul class="faq pl-sm-4 pl-3">
-                    <li class="item5 item mt-sm-4 mt-3 pt-3 pl-2" data-aos="flip-right">
-                        <h4>Lorem ipsum dolor sit amet? </h4>
-                        <ul>
-                            <li class="subitem1 mt-3">
-                                <p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-                                    laoreet dolore.</p>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="item6 item mt-sm-4 mt-3 pt-3 pl-2" data-aos="flip-right">
-                        <h4>Lorem ipsum dolor sit amet? </h4>
-                        <ul>
-                            <li class="subitem1 mt-3">
-                                <p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-                                    laoreet dolore.</p>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="item7 item mt-sm-4 mt-3 pt-3 pl-2" data-aos="flip-right">
-                        <h4>Lorem ipsum dolor sit amet? </h4>
-                        <ul>
-                            <li class="subitem1 mt-3">
-                                <p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-                                    laoreet dolore.</p>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</section>
+{{--<section class="faq-w3l py-5" id="faq">--}}
+    {{--<div class="container py-lg-3">--}}
+        {{--<h3 class="heading mb-5 text-center" data-aos="zoom-in"> Frequently Asked Questions</h3>--}}
+        {{--<div class="row faq-info">--}}
+            {{--<div class=" col-md-6 faq-w3agile">--}}
+                {{--<ul class="faq pl-sm-4 pl-3">--}}
+                    {{--<li class="item1 item mt-sm-4 mt-3 pt-3 pl-2" data-aos="flip-left">--}}
+                        {{--<h4>Lorem ipsum dolor sit amet? </h4>--}}
+                        {{--<ul>--}}
+                            {{--<li class="subitem1 mt-3">--}}
+                                {{--<p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut--}}
+                                    {{--laoreet dolore.</p>--}}
+                            {{--</li>--}}
+                        {{--</ul>--}}
+                    {{--</li>--}}
+                    {{--<li class="item2 item mt-sm-4 mt-3 pt-3 pl-2" data-aos="flip-left">--}}
+                        {{--<h4>Lorem ipsum dolor sit amet? </h4>--}}
+                        {{--<ul>--}}
+                            {{--<li class="subitem1 mt-3">--}}
+                                {{--<p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut--}}
+                                    {{--laoreet dolore.</p>--}}
+                            {{--</li>--}}
+                        {{--</ul>--}}
+                    {{--</li>--}}
+                    {{--<li class="item3 item mt-sm-4 mt-3 pt-3 pl-2" data-aos="flip-left">--}}
+                        {{--<h4>Lorem ipsum dolor sit amet? </h4>--}}
+                        {{--<ul>--}}
+                            {{--<li class="subitem1 mt-3">--}}
+                                {{--<p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut--}}
+                                    {{--laoreet dolore.</p>--}}
+                            {{--</li>--}}
+                        {{--</ul>--}}
+                    {{--</li>--}}
+                {{--</ul>--}}
+            {{--</div>--}}
+            {{--<div class=" col-md-6 faq-w3agile">--}}
+                {{--<ul class="faq pl-sm-4 pl-3">--}}
+                    {{--<li class="item5 item mt-sm-4 mt-3 pt-3 pl-2" data-aos="flip-right">--}}
+                        {{--<h4>Lorem ipsum dolor sit amet? </h4>--}}
+                        {{--<ul>--}}
+                            {{--<li class="subitem1 mt-3">--}}
+                                {{--<p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut--}}
+                                    {{--laoreet dolore.</p>--}}
+                            {{--</li>--}}
+                        {{--</ul>--}}
+                    {{--</li>--}}
+                    {{--<li class="item6 item mt-sm-4 mt-3 pt-3 pl-2" data-aos="flip-right">--}}
+                        {{--<h4>Lorem ipsum dolor sit amet? </h4>--}}
+                        {{--<ul>--}}
+                            {{--<li class="subitem1 mt-3">--}}
+                                {{--<p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut--}}
+                                    {{--laoreet dolore.</p>--}}
+                            {{--</li>--}}
+                        {{--</ul>--}}
+                    {{--</li>--}}
+                    {{--<li class="item7 item mt-sm-4 mt-3 pt-3 pl-2" data-aos="flip-right">--}}
+                        {{--<h4>Lorem ipsum dolor sit amet? </h4>--}}
+                        {{--<ul>--}}
+                            {{--<li class="subitem1 mt-3">--}}
+                                {{--<p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut--}}
+                                    {{--laoreet dolore.</p>--}}
+                            {{--</li>--}}
+                        {{--</ul>--}}
+                    {{--</li>--}}
+                {{--</ul>--}}
+            {{--</div>--}}
+        {{--</div>--}}
+    {{--</div>--}}
+{{--</section>--}}
 <!-- //faqs -->
 
 <!-- testimonials -->
@@ -519,7 +516,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <ul class="rslides" id="slider3">
                         <li data-aos="fade-down">
                             <div class="testi-pos">
-                                <h4>john watson</h4>
+                                <h4>Sunita sharma</h4>
                                 <span class="">- congue leo</span>
                                 <ul class="d-flex mt-2">
                                     <li><i class="fas mr-1 fa-star"></i></li>
@@ -531,17 +528,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                             </div>
                             <div class="testi-agile">
                                 <p>
-                                    <i class="fas fa-quote-left pr-3"></i>Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla
-                                    quis lorem ut libero malesuada feugiat.Nulla quis lorem ut libero malesuada feugiat.
-                                    Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing
-                                    elit.
+                                    <i class="fas fa-quote-left pr-3"></i>“Since we are a startup, we always consider quality & cost as the primary factor in things we do. WebWorksToDo understood this and moulded their plans to suit our needs, and that’s why they are the best!”
                                 </p>
                             </div>
                         </li>
                         <li data-aos="fade-down">
                             <div class="testi-pos">
-                                <h4>Paul walkner</h4>
-                                <span class="">- lacinia eget</span>
+                                <h4>Nishant S.</h4>
+                                {{--<span class="">- </span>--}}
                                 <ul class="d-flex mt-2">
                                     <li><i class="fas mr-1 fa-star"></i></li>
                                     <li><i class="fas mr-1 fa-star"></i></li>
@@ -552,17 +546,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                             </div>
                             <div class="testi-agile">
                                 <p>
-                                    <i class="fas fa-quote-left pr-3"></i>Donec rutrum congue leo eget consectetur sed, convallis at tellus. Nulla quis
-                                    lorem ut libero malesuada feugiat.Nulla quis lorem ut libero malesuada feugiat. Donec
-                                    rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing
-                                    elit
+                                    <i class="fas fa-quote-left pr-3"></i>Their services are beyond anything I could have imagined. It gets my highest recommendation.”
                                 </p>
                             </div>
                         </li>
                         <li data-aos="fade-down">
                             <div class="testi-pos">
-                                <h4>Anderson</h4>
-                                <span class="">- Donec rutru</span>
+                                <h4>Kanchan Walia</h4>
+                                {{--<span class="">- Kanchan Walia</span>--}}
                                 <ul class="d-flex mt-2">
                                     <li><i class="fas mr-1 fa-star"></i></li>
                                     <li><i class="fas mr-1 fa-star"></i></li>
@@ -573,10 +564,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                             </div>
                             <div class="testi-agile">
                                 <p>
-                                    <i class="fas fa-quote-left pr-3"></i>Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla
-                                    quis lorem ut libero malesuada feugiat.Nulla quis lorem ut libero malesuada feugiat.
-                                    Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing
-                                    elit
+                                    <i class="fas fa-quote-left pr-3"></i>"low cost ! Great quality ! beautifully desgined ."
                                 </p>
                             </div>
                         </li>
@@ -592,7 +580,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <section class="contact py-5" id="contact">
     <div class="container py-lg-3">
         <h3 class="heading mb-5 text-center" data-aos="zoom-in"> Get in touch</h3>
-        <form action="#" method="post" data-aos="fade-up">
+        <form  id='contactForm' method="post" data-aos="fade-up"  >
+            @csrf
             <div class="row">
                 <div class="col-md-6 styled-input mt-0">
                     <input type="text" name="Name" placeholder="First Name" required="">
@@ -626,17 +615,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <div class="container py-md-4">
             <div class="footer-grid_section text-center" data-aos="zoom-in">
                 <div class="footer-title mb-3">
-                    <a href="#"><i class="fab fa-blackberry mr-2"></i> Landing</a>
+                    <a href="#"><i class="fab fa-blackberry mr-2"></i> Triom Technologies</a>
                 </div>
                 <div class="footer-text">
-                    <p>Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ipnut libero malesuada feugiat.
-                        Lorem ipsum dolor sit amet, consectetur elit.</p>
+                    <p>"We give wings to your business, you decide where to fly!"</p>
                 </div>
                 <ul class="social_section_1info">
-                    <li class="mb-2 facebook"><a href="#"><i class="fab mr-1 fa-facebook-f"></i>facebook</a></li>
-                    <li class="mb-2 twitter"><a href="#"><i class="fab mr-1 fa-twitter"></i>twitter</a></li>
-                    <li class="google"><a href="#"><i class="fab mr-1 fa-google-plus-g"></i>google</a></li>
-                    <li class="linkedin"><a href="#"><i class="fab mr-1 fa-linkedin-in"></i>linkedin</a></li>
+                    {{--<li class="mb-2 facebook"><a href="#"><i class="fab mr-1 fa-facebook-f"></i>facebook</a></li>--}}
+                    {{--<li class="mb-2 twitter"><a href="#"><i class="fab mr-1 fa-twitter"></i>twitter</a></li>--}}
+                    {{--<li class="google"><a href="#"><i class="fab mr-1 fa-google-plus-g"></i>google</a></li>--}}
+                    {{--<li class="linkedin"><a href="#"><i class="fab mr-1 fa-linkedin-in"></i>linkedin</a></li>--}}
                 </ul>
             </div>
 
@@ -646,10 +634,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                         <h3>Address</h3>
                     </div>
                     <div class="footer-text">
-                        <p>Address : 1234 lock, Charlotte, North Carolina, United States</p>
-                        <p>Phone : +12 534894364</p>
-                        <p>Email : <a href="mailto:info@example.com">info@example.com</a></p>
-                        <p>Fax : +12 534894364</p>
+                        <p>Address : 1444A Sector 35 B near Jw marriot hotel chandigarh</p>
+                        <p>Phone : 8369180640</p>
+                        {{--<p>Email : <a href="mailto:info@example.com">info@example.com</a></p>--}}
+                        {{--<p>Fax : +12 534894364</p>--}}
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mt-md-0 mt-4 footer-grid_section_1its_w3" data-aos="fade-up">
@@ -660,8 +648,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                         <ul class="col-6 links">
                             <li><a href="#choose" class="scroll">Why Choose Us </a></li>
                             <li><a href="#overview" class="scroll">Overview </a></li>
-                            <li><a href="#pricing" class="scroll">Pricing Plans</a></li>
-                            <li><a href="#faq" class="scroll">Faq's </a></li>
+                            {{--<li><a href="#pricing" class="scroll">Pricing Plans</a></li>--}}
+                            {{--<li><a href="#faq" class="scroll">Faq's </a></li>--}}
                             <li><a href="#testimonials" class="scroll">Testimonial </a></li>
                             <li><a href="#contact" class="scroll">Contact </a></li>
                         </ul>
@@ -713,12 +701,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             </div>
             <div class="modal-body">
                 <img src="{{asset('web/images/banner.jpg')}}" class="img-fluid mb-3" alt="Modal Image" />
-                Vivamus eget est in odio tempor interdum. Mauris maximus fermentum arcu, ac finibus ante. Sed mattis risus at ipsum elementum,
-                ut auctor turpis cursus. Sed sed odio pharetra, aliquet velit cursus, vehicula enim. Mauris porta aliquet magna, eget laoreet ligula.
-                Sed mattis risus at ipsum elementum, ut auctor turpis cursus. Sed sed odio pharetra, aliquet.
+                <b>Our Inception</b><br>
+                Forged in the realm of technology and media, WebWorksToDo brings a unique and surreal feel to your project.
+                <br>
+                <b>Who we are</b><br>
+                We are one crazy team of tech geeks with one thing in common. The love of technology (and star wars).
+                <br>
+                <b>How we work</b><br>
+                We start with an idea, or a concept and then work on that as per the clients business needs. We assist them in achieving their targets by providing a sophisticated & simple approach towards the new marketing era.
+                <br>
+                <b>Why us</b><br>
+                We grabbed our first project at a hackathon, and since then there was no turning back. Building web applications with the latest tools available in the market, and most importantly breaking the myth of bieng "pricey".
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-primary">Save Changes</button>
+                {{--<button type="button" class="btn btn-primary">Save Changes</button>--}}
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
             </div>
         </div>
@@ -884,6 +880,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         });
     });
 </script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 <script>
     $(document).ready(function () {
         /*
@@ -898,11 +895,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         $().UItoTop({
             easingType: 'easeOutQuart'
         });
+        $( "#contactForm" ).submit(function( event ) {
+            swal("Query submitted", "We will contact you soon", "success");
+            $('#contactForm')[0].reset();
+            event.preventDefault();
 
+        });
     });
 </script>
 <script type="text/javascript">(function(t,e){var r=function(t){try{var r=e.head||e.getElementsByTagName("head")[0];a=e.createElement("script");a.setAttribute("type","text/javascript");a.setAttribute("src",t);r.appendChild(a);}catch(t){}};t.CollectId = "5c49802176c07a4238fe5680";r("https://collectcdn.com/launcher.js");})(window,document);</script>
-<!-- //end-smoth-scrolling -->
 
 </body>
 </html>
